@@ -1,8 +1,8 @@
-site_name: Mi Documentación 
+site_name: Mi Documentación
 theme:
-  name: material 
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
-    -navigation.expand
-    -content.code.copy 
+    - navigation.expand
+    - content.code.copy
